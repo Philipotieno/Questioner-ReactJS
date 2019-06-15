@@ -1,4 +1,6 @@
 #### React App 🤯
 
+The app is hosted here []()
 #### npm install
-#### npm start
+
+#### npm run start:dev

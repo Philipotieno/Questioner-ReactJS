@@ -1,0 +1,58 @@
+div.row {
+    margin-top: -14%;
+    margin-bottom: 230%;
+}
+
+a.btn.btn-lg.btns-light {
+    background-color: rgb(17, 111, 194);
+    color: aliceblue;
+}
+
+a.btn.btn-lg.btns-light:hover {
+    background-color: rgb(28, 201, 120);
+    color: 
+}
+
+.login-container {
+    position: fixed;
+    width: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 150px;
+    margin-top: 25%;
+    height: 20%;
+}
+
+h4.center {
+    margin-top: 10%;
+}
+
+button.btn.btn-lg.btn-block.btn-online-success {
+    background-color: rgb(17, 111, 194);
+    color: aliceblue;
+}
+
+strong {
+    font-weight: 500;
+    color: red;
+    margin-left: -5%;
+}
+
+.alert-dismissible .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.75rem 1.25rem;
+    color: red;
+}
+
+
+.btns {
+    background-color: rgb(17, 111, 194);
+    color: aliceblue;
+}
+
+.btns:hover {
+    background-color: rgb(28, 201, 120);
+    color: 
+}
